@@ -1,6 +1,6 @@
 {
-  "name": "angulartics",
-  "version": "0.17.0",
+  "name": "angularGA",
+  "version": "0.1.0",
   "main": [
     "src/angulartics.js",
     "src/angulartics-adobe.js",
